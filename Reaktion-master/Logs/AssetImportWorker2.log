@@ -179,3 +179,4 @@ Received Import Request.
   path: Assets/ReaktionTest/Assets/Skybox.mat
   artifactKey: Guid(2ea6cce00102e42a68927f73be1f6120) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/ReaktionTest/Assets/Skybox.mat using Guid(2ea6cce00102e42a68927f73be1f6120) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c2b649711919b5c75c7f6a902096bf1') in 0.243159 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

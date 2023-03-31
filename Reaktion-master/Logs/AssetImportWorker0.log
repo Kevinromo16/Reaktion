@@ -179,3 +179,4 @@ Received Import Request.
   path: Assets/ReaktionTest/Assets/Metal.mat
   artifactKey: Guid(3435738e684114bcab75721c3db6408e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/ReaktionTest/Assets/Metal.mat using Guid(3435738e684114bcab75721c3db6408e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e21656f73108e2e95b53670758a999f') in 0.244296 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
